@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Stardos Stencil
+- Font Author: Copyright (c) 2011, Vernon Adams (vern@newtypography.co.uk) with Reserved Font Names 'Stardos'. All rights reserved.
+- Font Source: https://fonts.gstatic.com/s/stardosstencil/v15/X7n94bcuGPC8hrvEOHXOgaKCc2TR71R3tiSx0g.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
